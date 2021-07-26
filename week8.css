@@ -1,0 +1,17 @@
+tr,td{
+	border: 1px solid;
+}
+.mtable{
+	border: 3px solid;
+	border-collapse:collapse;
+	background: red;
+}
+.mainlist{
+	background: green;
+	border: 1px solid black;
+	border-radius:30px;
+}
+.list2{
+	background: black;
+	border-radius: 30px;
+}
